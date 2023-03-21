@@ -4,9 +4,9 @@ useHead({
 });
 </script>
 <template>
-   <main class="flex items-center justify-center flex-col">
-      <div class="pt-40 flex flex-col items-center">
-         <a href="#" class="text-sm items-center inline-flex py-1 px-2 border border-gray-400 hover:border-green-500 bg-white hover:bg-gray-100 rounded-full">
+   <main class="flex items-center justify-center flex-col h-screen">
+      <div class="flex flex-col items-center">
+         <a href="https://github.com/Rauliqbal/nuxt-tailwind" class="text-sm items-center inline-flex py-1 px-2 border border-gray-400 hover:border-green-500 bg-white hover:bg-gray-100 rounded-full">
             <img class="w-6 rounded-full mr-1" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" />
             Github Repository</a
          >
