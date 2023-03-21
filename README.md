@@ -2,24 +2,17 @@
 
 This template will help you start developing with Nuxt 3 and Tailwind CSS
 
-## Setup
+## Getting Started
 
-```bash
-# yarn
-yarn install
+Click Button 'Use This Template' or Clonning this repository
 
-# npm
+### Clone Repository
+
+```
+git clone https://github.com/Rauliqbal/nuxt-tailwind.git
+
 npm install
 
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
 npm run dev
 ```
 
